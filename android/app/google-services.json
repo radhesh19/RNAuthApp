@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "180349057229",
+    "project_id": "authapp-3488e",
+    "storage_bucket": "authapp-3488e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180349057229:android:352315a2945132ec2f1184",
+        "android_client_info": {
+          "package_name": "com.rnauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180349057229-icjbb34t3t2rv7clqrpqathg5bltm22q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADizam6PiI2RNs54c6K7LiNASpYR_nJ-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180349057229-icjbb34t3t2rv7clqrpqathg5bltm22q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "180349057229-uaj829thkcos06bc5tjld6uqmvhnroca.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.RNAuthApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
