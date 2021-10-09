@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RNAuthApp.iml" filepath="$PROJECT_DIR$/.idea/modules/RNAuthApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RNAuthApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RNAuthApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-245832239/RNAuthApp.lottie-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-245832239/RNAuthApp.lottie-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1989565242/RNAuthApp.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1989565242/RNAuthApp.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1228588856/RNAuthApp.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1228588856/RNAuthApp.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1315375823/RNAuthApp.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1315375823/RNAuthApp.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-392976834/RNAuthApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-392976834/RNAuthApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2055216086/RNAuthApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/2055216086/RNAuthApp.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

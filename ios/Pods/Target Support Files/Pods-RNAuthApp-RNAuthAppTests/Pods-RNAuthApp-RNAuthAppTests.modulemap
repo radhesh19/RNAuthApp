@@ -1,0 +1,6 @@
+module Pods_RNAuthApp_RNAuthAppTests {
+  umbrella header "Pods-RNAuthApp-RNAuthAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
